@@ -5,7 +5,7 @@
   "title": "World of Warcraft Character Search",
   "description": "Search for World of Warcraft characters on the official Armory.",
   "icon": "WoW_icon.png",
-  "author": "dakota_walker",
+  "author": "odin_force",
   "license": "MIT",
   "commands": [
     {
