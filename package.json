@@ -3,7 +3,7 @@
   "name": "wow-character-search",
   "version": "1.0.3",
   "title": "World of Warcraft Character Search",
-  "description": "Search for World of Warcraft characters on the official Armory.",
+  "description": "Search for World of Warcraft characters on the official Armory and using Raider.io",
   "icon": "WoW_icon.png",
   "author": "odin_force",
   "license": "MIT",
